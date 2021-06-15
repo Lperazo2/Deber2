@@ -3,7 +3,7 @@ package curso1;
 
 public class Curso1 {
     private double [] notas;
-    private double promedio;
+    private double promedio; 
     private double aux;
     private int estudiantesEncimaPromedio;
     private int aux2;
